@@ -1,3 +1,7 @@
+Made with Gemma 4 12B Local / ChatGPT
+
+Port of Video Bitrate Calculator
+
 Credit : Dr. Lex
 
 URL : https://www.dr-lex.be/info-stuff/video-bitrate-calculator.html
