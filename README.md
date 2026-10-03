@@ -16,4 +16,6 @@ C#
 
 x86+x64 = AnyCPU
 
+Audio Track text box and the add / Subtracted button do not operate (They are there for the Look)
+
 <img width="840" height="642" alt="image" src="https://github.com/user-attachments/assets/fc6b1df5-9ca0-4585-8a19-09a81240f78c" />
