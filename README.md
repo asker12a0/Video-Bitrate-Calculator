@@ -15,3 +15,5 @@ C#
 .Net Fraemwork 4.7.2
 
 x86+x64 = AnyCPU
+
+<img width="840" height="642" alt="image" src="https://github.com/user-attachments/assets/fc6b1df5-9ca0-4585-8a19-09a81240f78c" />
